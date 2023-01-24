@@ -1,0 +1,5 @@
+models
+.ipynb_checkpoints
+*.csv
+*.zip
+kernel-metadata.json
